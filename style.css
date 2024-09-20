@@ -1,0 +1,29 @@
+.Background{
+    display: inline-block;
+    width: 600px; 
+    height: 600px; 
+    background-color:#d9b99f;
+    border-color:#a75f37;
+    border-style: solid;
+    border-width: 10px;
+    margin-left: 650px;
+    border-radius: 25px;
+}
+
+.body{
+    background-color: #e9d7c0;
+}
+
+.Heading {
+    margin-left: 140px;
+    margin-top: 200px;
+}
+
+.subheading{
+    margin-left: 159px;
+}
+
+.numberbox{
+    margin-left: 300px;
+    width: 20px;
+}   
